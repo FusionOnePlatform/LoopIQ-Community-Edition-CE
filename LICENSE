@@ -1,0 +1,63 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor: FusionOne Inc. (LoopIQ)
+Licensed Work: LoopIQ Open Modules (Idea Management, Project Management, ITSM, Test Management, Time Management) 
+The Licensed Work is © FusionOne Inc. (LoopIQ)
+
+Change Date: “January 1, 2031”
+
+Change License: Apache License, Version 2.0
+
+Additional Use Grant:
+You may use, modify, and distribute the Licensed Work for any purpose,
+except for a Production Use that is not allowed by the Licensing Restrictions
+defined below.
+
+Licensing Restrictions:
+The following uses are NOT permitted under this license:
+
+1. **SaaS / Cloud Hosting Restriction**
+   You may not use the Licensed Work to provide a hosted, managed, or commercial 
+   Software-as-a-Service (SaaS) offering that competes with LoopIQ, FusionOne Inc., 
+   or any LoopIQ enterprise or cloud product.
+
+2. **Competitive Service Restriction**
+   You may not use the Licensed Work to build any product, platform, or service 
+   that is substantially similar to or a replacement for LoopIQ, including but 
+   not limited to: SDLC platforms, ITSM systems, test management systems, 
+   project management platforms, idea management tools, release governance systems, 
+   or AI-driven compliance platforms.
+
+3. **Fork & Rebranding Restriction**
+   You may not create a fork, derivative, or modified version of the Licensed Work 
+   whose primary purpose is to replace or replicate LoopIQ functionality in the 
+   commercial market, or to claim originality of LoopIQ’s design, workflows, 
+   architecture, or branding.
+
+4. **Cloud Provider Restriction**
+   No cloud provider (including AWS, GCP, Azure, DigitalOcean, Oracle Cloud, etc.) 
+   may host, sell, or offer the Licensed Work as part of any commercial or managed 
+   service without an explicit, written commercial license from FusionOne Inc.
+
+5. **Trademark Restriction**
+   The names “LoopIQ”, “FusionOne”, associated logos, and product branding may
+   not be used to advertise or promote derivative works without written permission.
+
+Production Use:
+“Production Use” means use of the Licensed Work in a live environment to deliver 
+products or services to third parties, whether paid or unpaid.
+
+Non-Production Use:
+You are permitted to use, modify, and distribute the Licensed Work for development,
+testing, internal evaluation, research, or non-commercial educational use.
+
+Change License:
+
+On the Change Date, the License will automatically convert to the Change License 
+(Apache 2.0), allowing full open-source use under that license.
+
+Disclaimer:
+THE LICENSED WORK IS PROVIDED “AS IS,” WITHOUT WARRANTIES OF ANY KIND.
+
