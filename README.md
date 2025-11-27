@@ -2,7 +2,7 @@
 
 **The Open, Modern, AI-Ready SDLC Workflow Platform — Idea Management, Project Management, ITSM, Test Management & Time Tracking**
 
-LoopIQ Community Edition (CE) is the **free, source-available, community-driven version** of LoopIQ — a unified SDLC workflow platform designed to replace the fragmentation created by tools like **Jira, ServiceNow, GitLab, TestRail, Productboard, and Tempo**.
+LoopIQ Community Edition (CE) is the **free, source-available, community-driven version** of LoopIQ — a unified SDLC workflow platform designed to replace the fragmentation created by popular tools .
 
 This repository contains the **core workflow modules**, open for developers, teams, and organizations who want modern SDLC building blocks without vendor lock-in.
 
