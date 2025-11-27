@@ -3,7 +3,6 @@
 ## Our Pledge
 We as contributors and maintainers pledge to make participation in the LoopIQ Community Edition project a harassment-free experience for everyone, regardless of:
 - age
-- body size
 - disability
 - ethnicity
 - gender identity and expression
@@ -67,7 +66,7 @@ This Code of Conduct applies to:
 
 If someone is violating the Code of Conduct:
 
-📧 **Email:** conduct@fusiononeplatform.com
+📧 **Email:** support@fusiononeplatform.com
 
 All complaints are reviewed and investigated confidentially.
 
