@@ -8,32 +8,32 @@ This repository contains the **core workflow modules**, open for developers, tea
 
 ---
 
-## 🧩 What’s Included (Open Community Edition)
+## What’s Included (Open Community Edition)
 
-### ✔ **Idea Management**
+### **Idea Management**
 Capture ideas, proposals, requirements, and product discovery workflows.
 
-### ✔ **Project & Issue Management**
+### **Project & Issue Management**
 Modern Agile workflows — stories, tasks, sprints, epics, backlogs, boards.
 
-### ✔ **ITSM Lite**
+### **ITSM Lite**
 Tickets, incidents, change requests, service operations — modern, clean, API-first.
 
-### ✔ **Test Management**
+### **Test Management**
 Test cases, suites, runs, results, and end-to-end traceability — finally open and modern.
 
-### ✔ **Time Tracking**
+### **Time Tracking**
 Simple worklogs, timesheets, and task-based time analytics.
 
-### ✔ **API-First Architecture**
+### **API-First Architecture**
 REST/GraphQL APIs for automation, integrations, and custom extensions.
 
-### ✔ **Beautiful, Modern UI/UX**
+### **Beautiful, Modern UI/UX**
 A clean, responsive interface built for engineering teams — no plugin chaos.
 
 ---
 
-## 🔒 What’s NOT Included (Enterprise Cloud Only)
+## What’s NOT Included (Enterprise Cloud Only)
 
 These features are exclusive to **LoopIQ Cloud (SaaS)** and **LoopIQ Enterprise**:
 
@@ -52,7 +52,7 @@ LoopIQ Cloud gives you the intelligence.**
 
 ---
 
-## 🛡️ License
+## License
 
 This project is released under the **Business Source License (BSL 1.1)** with strong protections against:
 
@@ -67,7 +67,7 @@ After the Change Date, the code transitions to **Apache 2.0**.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome community contributions!  
 Bug fixes, enhancements, documentation, and new integrations are all appreciated.
@@ -76,7 +76,7 @@ Please read the **CONTRIBUTING.md** for contribution guidelines.
 
 ---
 
-## 🌍 Why We Built This
+## Why We Built This
 
 The modern SDLC is broken across dozens of tools.  
 LoopIQ CE brings the core workflow modules into a **unified, modern, open platform** — giving teams full control and flexibility **without enterprise lock-in**.
@@ -94,7 +94,7 @@ Then **LoopIQ Community Edition** is for you.
 
 ---
 
-## ⭐ Links
+## Links
 
 - **Website:** https://www.loopiq.com  
 - **Cloud Platform (Full AI/Agentic version):** https://app.loopiq.com  
